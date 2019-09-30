@@ -46,14 +46,14 @@ ol li:last-child {
   color: #2aa198;
 }
 
-li .type:nth-child(odd) {
+ol li .type:nth-child(odd) {
   background-color: #657ba3;
 }
 
-li .type:nth-child(even) {
+ol li .type:nth-child(even) {
   background-color: #586e75;
 }
 
-li .types:nth-of-type(3) {
+ol li .types:nth-of-type(3) {
   background-color: #d04b16;
 }
