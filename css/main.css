@@ -42,18 +42,18 @@ ul li:first-child {
   color: #719e47;
 }
 
-ol li:last-child {
+ul li:last-child {
   color: #2aa198;
 }
 
-ol li .type:nth-child(odd) {
+ul li .type:nth-child(odd) {
   background-color: #657ba3;
 }
 
-ol li .type:nth-child(even) {
+ul li .type:nth-child(even) {
   background-color: #586e75;
 }
 
-ol li .types:nth-of-type(3) {
+ul li .types:nth-of-type(3) {
   background-color: #d04b16;
 }
