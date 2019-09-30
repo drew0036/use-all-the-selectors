@@ -3,7 +3,7 @@ body {
 }
 
 header, footer {
-  font-size: 1.5rem
+  font-size: 1.5rem;
 }
 
 ul nav {
@@ -55,5 +55,5 @@ li .type:nth-child(even) {
 }
 
 li .types:nth-of-type(3) {
-  background color: #d04b16
+  background color: #d04b16;
 }
