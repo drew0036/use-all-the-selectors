@@ -26,7 +26,7 @@ ul nav {
   background-color: #b58900;
 }
 
-.dfn strong {
+.dfn p + strong {
   color: #fff;
 }
 
@@ -38,11 +38,11 @@ a:not(.no-highlight) {
   background-color: #2694d8;
 }
 
-ul li:first-child {
+ol li:first-child {
   color: #719e47;
 }
 
-ul li:last-child {
+ol li:last-child {
   color: #2aa198;
 }
 
@@ -50,14 +50,10 @@ ul li:last-child {
   background-color: #657ba3;
 }
 
-li .types:nth-child(odd) {
-  background-color: #657ba3;
-}
-
-li .types:nth-child(even) {
+.types li:nth-child(even) {
   background-color: #586e75;
 }
 
-li .types:nth-of-type(3) {
+.types li:nth-child(3n) {
   background-color: #d04b16;
 }
