@@ -46,11 +46,11 @@ ul li:last-child {
   color: #2aa198;
 }
 
-.type li:nth-child(odd) {
+li .types:nth-child(odd) {
   background-color: #657ba3;
 }
 
-li .type:nth-child(even) {
+li .types:nth-child(even) {
   background-color: #586e75;
 }
 
