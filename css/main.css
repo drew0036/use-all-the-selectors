@@ -26,7 +26,7 @@ ul nav {
   background-color: #b58900;
 }
 
-.dfn > strong {
+.dfn strong {
   color: #fff;
 }
 
@@ -55,5 +55,5 @@ li .type:nth-child(even) {
 }
 
 li .types:nth-of-type(3) {
-  background color: #d04b16;
+  background-color: #d04b16;
 }
