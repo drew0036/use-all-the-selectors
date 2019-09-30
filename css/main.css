@@ -46,7 +46,7 @@ ul li:last-child {
   color: #2aa198;
 }
 
-li .type:nth-child(odd) {
+.type li:nth-child(odd) {
   background-color: #657ba3;
 }
 
